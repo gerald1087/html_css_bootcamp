@@ -1,0 +1,111 @@
+body {
+    background-image: url(./img/atl.png);
+    background-repeat: no-repeat;
+    background-size: 100% 510px;
+    font-family: sans-serif;
+}
+
+
+.navigation {
+    display: flex;
+    margin-left: 70%;
+    margin-top: 0;
+    margin-bottom: 0;
+    list-style-type: none;
+    padding-left: 0;
+    text-align: right;
+}
+
+.navigation li {
+    margin-right: 20px;
+    margin-top: 20px
+}
+
+.navigation li a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.logo {
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+}
+
+.logo img {
+    width: 200px;
+    height: 100px;
+}
+
+.logo h1 {
+    font-size: 60px;
+    font-weight: 200;
+}
+
+.logo span {
+    font-weight: 100;
+    margin: auto;
+}
+
+.phrase {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+    font-weight: 100;
+}
+
+tr {
+    text-align: center;
+}
+
+.arrow {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.table {
+    margin-top: 50px;
+    width: 50%;
+    margin-left: 25%;
+    border-spacing: 70px 0;
+    align-content: center;
+}
+.headings td {
+    font-size: 40px;
+    font-weight: 100;
+}
+
+.navigation2 {
+    display: flex;
+    margin-left: 45%;
+    margin-top: 0;
+    margin-bottom: 0;
+    list-style-type: none;
+    padding-left: 0;
+    text-align: center;
+}
+
+.navigation2 li {
+    margin-right: 20px;
+    margin-top: 20px
+}
+
+.navigation2 li a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.bottom {
+    width: auto;
+    padding: 10px;
+    background-color: rgb(71, 71, 71);
+    padding: 20px 60px 20px 30px;
+    color: #555;
+}
+
+.copy {
+    text-align: center;
+}
